@@ -12,13 +12,13 @@ public class Insertsql {
 
 //将Test换成你自己的数据库名
 
-        String dbURL = "jdbc:sqlserver://172.24.1.64:1433;DatabaseName=Kfsjj";
+        String dbURL = "jdbc:sqlserver://xxxxxxxxxx;DatabaseName=xxxxxx";
 
-        String userName = "jsj";
+        String userName = "xxxxx";
 
 //将密码改成自己设置的密码
 
-        String userPwd = "Zqsb_123abc";
+        String userPwd = "xxxxxxx";
 
         Connection dbConn = null;
 
